@@ -1,8 +1,8 @@
 :root {
-  --text-color: #f1f5f9;
-  --card-front-color: #ffc400;
-  --card-back-color: #0fac31;
-  --background: #0f172a;
+  --text-color: #f9f1f8;
+  --card-front-color: #cca00e;
+  --card-back-color: #0b7221;
+  --background: #344a86;
 }
 
 * {
@@ -47,7 +47,7 @@ h1 {
   transition: transform 0.6s;
   transform-style: preserve-3d;
   border-radius: 1rem;
-  box-shadow: 0 10px 20px rgba(0,0,0,0.3);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.849);
   cursor: pointer;
 }
 
